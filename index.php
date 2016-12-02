@@ -6,6 +6,7 @@
  * Time: 16:16
  */
 require 'vendor/autoload.php';
+date_default_timezone_set('UTC');
 if (!session_id()) {
     session_start();
 }
