@@ -62,7 +62,7 @@ body {
 @-webkit-keyframes glow {
     0% {
         border-color: #393;
-        box-shadow:0 0 10px #15AD66;
+        box-shadow: 0 0 10px rgba(21, 173, 102, 0.41);
     }
     100% {
         border-color: #6f6;
@@ -73,7 +73,7 @@ body {
 @-moz-keyframes glow {
     0% {
         border-color: #393;
-        box-shadow:0 0 10px #15AD66;
+        box-shadow: 0 0 10px rgba(21, 173, 102, 0.41);
     }
     100% {
         border-color: #6f6;
@@ -84,7 +84,7 @@ body {
 @-o-keyframes glow {
     0% {
         border-color: #393;
-        box-shadow:0 0 10px #15AD66;
+        box-shadow: 0 0 10px rgba(21, 173, 102, 0.41);
     }
     100% {
         border-color: #6f6;
@@ -95,7 +95,7 @@ body {
 @-ms-keyframes glow {
     0% {
         border-color: #393;
-        box-shadow:0 0 10px #15AD66;
+        box-shadow: 0 0 10px rgba(21, 173, 102, 0.41);
     }
     100% {
         border-color: #6f6;
@@ -106,7 +106,7 @@ body {
 @keyframes glow {
     0% {
         border-color: #393;
-        box-shadow:0 0 10px #15AD66;
+        box-shadow: 0 0 10px rgba(21, 173, 102, 0.41);
     }
     100% {
         border-color: #6f6;
